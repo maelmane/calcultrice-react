@@ -32,11 +32,11 @@ Assurez-vous d'avoir Node.js et npm installés sur votre système.
 1. Lancez l'application en mode développement :
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
+# ou
 bun dev
 ```
 
