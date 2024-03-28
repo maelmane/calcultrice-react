@@ -50,6 +50,7 @@ bun dev
 [C-sharpcorner](https://www.c-sharpcorner.com/article/creating-a-simple-calculator-with-react-js/)
 [GeeksforGeeks](https://www.geeksforgeeks.org/reactjs-calculator-app-introduction/)
 [tailwindcss](https://tailwindcss.com/)
+[Cand Dev](https://www.youtube.com/@CandDev/videos)
 
 
 ## Documentation
