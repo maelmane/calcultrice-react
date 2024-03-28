@@ -1,5 +1,4 @@
 # Calculatrice React avec Next.js
-
 Ce projet consiste à développer une calculatrice en utilisant React avec Next.js. Cette calculatrice offre les fonctionnalités de base d'une calculatrice pour téléphone cellulaire
 
 ## Fonctionnalités
@@ -13,12 +12,13 @@ Ce projet consiste à développer une calculatrice en utilisant React avec Next.
 - HTML
 - CSS
 
-## Prérequis
+## Déploiement
+Ouvrez votre navigateur et accédez à https://calcultrice-react-wbso.vercel.app/
 
+## Prérequis
 Assurez-vous d'avoir Node.js et npm installés sur votre système.
 
 ## Installation
-
 1. Clonez ce dépôt :
 `git clone https://github.com/maelmane/calcultrice-react.git`
 
